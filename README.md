@@ -68,7 +68,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://travis.media)
 
 This is a project I created for the wonderful devs in the [Travis Media Community](https://travis.media/community). We'll be using this project to learn not only how to code, but how to use Git/GitHub, create pull requests, and just become better developers by doing.
 
@@ -160,18 +160,18 @@ Project Link: [https://github.com/rodgtr1/community-javascript-todo-app](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/rodgtr1/community-javascript-todo-app.svg?style=for-the-badge
 [contributors-url]: https://github.com/rodgtr1/community-javascript-todo-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/rodgtr1/community-javascript-todo-app.svg?style=for-the-badge
 [forks-url]: https://github.com/rodgtr1/community-javascript-todo-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/rodgtr1/community-javascript-todo-app.svg?style=for-the-badge
 [stars-url]: https://github.com/rodgtr1/community-javascript-todo-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/rodgtr1/community-javascript-todo-app.svg?style=for-the-badge
 [issues-url]: https://github.com/rodgtr1/community-javascript-todo-app/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/rodgtr1/community-javascript-todo-app.svg?style=for-the-badge
 [license-url]: https://github.com/rodgtr1/community-javascript-todo-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/travisdotmedia
 [product-screenshot]: images/todo-app-screenshot.jpeg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
