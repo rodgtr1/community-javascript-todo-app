@@ -83,6 +83,7 @@ This is a project I created for the wonderful devs in the [Travis Media Communit
    git clone https://github.com/rodgtr1/community-javascript-todo-app.git
    ```
 2. Open the index.html file. My preference is to use the [Live Server extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Just highlight the html code, right-click, and choose `Open With Live Server`
+3. The `settings.json` in the .vscode folder as well as the `.prettierrc` file will keep us all with the same formatting. You will need to install the [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for VSCode.
 
 ### Prerequisites
 
